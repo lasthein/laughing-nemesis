@@ -33,3 +33,5 @@ Det så ud til at fungere med opdatering af config til Simple. Nu prøver jeg s�
 ///
 Yes!!! det virkede også. Det er altså ret sjovt det her :-)))
 ///
+Husk at du skal navigere til det rigtige directory i Terminal for dette projekt (/users/rala/PRIVAT) før du kan lave git kommandoer der påvirker projektet.
+///
