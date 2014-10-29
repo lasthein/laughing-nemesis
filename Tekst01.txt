@@ -1,3 +1,5 @@
 
 Rasmus laver sin første Git-versionerede tekstfil.
-
+///
+Nu prøver jeg så at skrive lidt mere og lave et nyt commit og push.
+///
