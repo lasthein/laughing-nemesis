@@ -31,3 +31,5 @@ See 'git help config' and search for 'push.default' for further information.
 ///
 Det så ud til at fungere med opdatering af config til Simple. Nu prøver jeg så at ændre user.name og user.email så jeg slipper for de ekstra beskeder i Terminal.
 ///
+Yes!!! det virkede også. Det er altså ret sjovt det her :-)))
+///
