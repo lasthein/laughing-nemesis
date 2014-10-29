@@ -3,3 +3,6 @@ Rasmus laver sin første Git-versionerede tekstfil.
 ///
 Nu prøver jeg så at skrive lidt mere og lave et nyt commit og push.
 ///
+Ok tredje og for denne gang sidste rettelse. Jeg begynder at forstå nogle af de grundliggende ting ved Git. det er faktisk sjovt at bruge Terminalen til at skrive kommandoer.
+///
+
