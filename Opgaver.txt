@@ -1,0 +1,5 @@
+
+OPGAVER TIL STATAMIC PROJEKT:
+
+1. Find endelig hosting provider (Digital Ocean eller den anden store)
+1. Aftal med Martin, hvornår vi kan opsætte Statamic hos hosting provider.
